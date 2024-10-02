@@ -1,1 +1,5 @@
 apapun ya
+<<<<<<< HEAD
+=======
+fitur B
+>>>>>>> new_fiture_B
